@@ -1,1 +1,2 @@
-# binary_trees
+# Alx Binary Trees
+- Binary Trees
